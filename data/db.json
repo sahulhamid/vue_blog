@@ -1,0 +1,61 @@
+{
+    "users": [
+        {
+            "name": "sahul",
+            "id": 1,
+            "written_blogs": 20,
+            "details": "this is sahul hameed professional developer and hobby of writting blogs"
+        },
+        {
+            "name": "esther",
+            "id": 2,
+            "written_blogs": 30,
+            "details": "this is esther rani professional designer and hobby of writting blogs"
+
+        },
+        {
+            "name": "hameed",
+            "id": 3,
+            "written_blogs": 50,
+            "details": "this is hameed professional blogger and hobby of writting blogs"
+
+        },
+        {
+            "name": "rani",
+            "id": 4,
+            "written_blogs": 10,
+            "details": "this is queen professional editor and hobby of writting blogs"
+
+        }
+    ],
+    "blogs": [
+        {
+            "title": "this is my sahul's blog",
+            "author": "sahul",
+            "author_id": 1,
+            "id": 1,
+            "detail": "this is my new blog i do not know why i am here"
+        },
+        {
+            "title": "this is my esther's blog",
+            "author": "esther",
+            "author_id": 2,
+            "id": 2,
+            "detail": "this is my new blog i am esthrer"
+        },
+        {
+            "title": "this is my sahul's blog",
+            "author": "sahul",
+            "author_id": 1,
+            "id": 3,
+            "detail": "my second blog"
+        },
+        {
+            "title": "this is my esther's blog",
+            "author": "esther",
+            "author_id": 2,
+            "id": 4,
+            "detail": "esther's second blog"
+        }
+    ]
+}
